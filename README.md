@@ -122,8 +122,8 @@ git pull origin main
 
 ## 🛠️ 5. Flujo colaborativo
 - **Tú subes cambios** con `git add .`, `git commit -m "mensaje"`, `git push origin main`.  
-- **Ella los descarga** con `git pull origin main`.  
-- Si ella también hace cambios, debe subirlos con `git push origin main`.  
+-  se descarga con `git pull origin main`.  
+- Si también hace cambios, debe subirlos con `git push origin main`.  
 
 ---
 
